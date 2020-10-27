@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30608.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APITemperatura.Testes", "APITemperatura.Testes.csproj", "{601CAB44-EF35-4B09-9BEA-8012C5C7DFEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APITemperatura", "..\APITemperatura\APITemperatura.csproj", "{D2716D31-8447-46CA-A906-A1E96DD79EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601CAB44-EF35-4B09-9BEA-8012C5C7DFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601CAB44-EF35-4B09-9BEA-8012C5C7DFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601CAB44-EF35-4B09-9BEA-8012C5C7DFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601CAB44-EF35-4B09-9BEA-8012C5C7DFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2716D31-8447-46CA-A906-A1E96DD79EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2716D31-8447-46CA-A906-A1E96DD79EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2716D31-8447-46CA-A906-A1E96DD79EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2716D31-8447-46CA-A906-A1E96DD79EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11E33A8-BE32-4A1D-83E1-0B680A7A12B2}
+	EndGlobalSection
+EndGlobal
